@@ -9,11 +9,15 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>Wilson Narog</h1>
 
         <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
+          Hello, my name is Wilson Narog, and I'm a student at the University of Colorado, Boulder. 
+          I'm currently a Computer Science major and am pursuing a minor in Creative Technology and Design!
+          I have three cats at home because my brother and my mother really love cats. I live in Will Vill East,
+          and have lived here in Colorado my entire life. More specifically, my family lived in Littleton, which
+          is about an hours drive away from Boulder. I've been really loving my time here at Boulder, and I hope 
+          everyone else is as well!
         </p>
         <p className='description2'>
           Next, each team member will create their own about me file in the
